@@ -1,16 +1,29 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SudhanshuSingh12239&label=PROFILE%20VISITS&color=blueviolet&style=flat" alt="SudhanshuSingh12239"/> </p>
 
-<!--
-**SudhanshuSingh12239/SudhanshuSingh12239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello 👋, I’m <b>Sudhanshu Singh</b></h1>
 
-Here are some ideas to get you started:
+> #### 🌱 I’m Currently Learning : *BackEnd*
+> #### 🏆 <i>My Wakatime Insights</i> : 
+<!--  Wakatime stats -->
+<p> 
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api/wakatime?username=Sudhanshu_Singh&layout=compact&langs_count=8&theme=onedark&hide_border=true" 
+       alt="Sudhanshu Singh" width="47%" height="100%"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--  GitHub Stats -->
+<p> 
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api?username=SudhanshuSingh12239&local=en&theme=onedark&hide_border=true&show_icons=true" 
+       alt="Sudhanshu Singh" width="47%"
+  />
+</p>
+
+<!--  Streak Stats -->
+<p> 
+  <img align="left" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanshuSingh12239&theme=onedark&hide_border=true" 
+       alt="Sudhanshu Singh" width="47%"
+  />
+</p>
