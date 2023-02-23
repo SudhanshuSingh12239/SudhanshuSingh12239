@@ -6,10 +6,7 @@
 > #### 🏆 <i>My Wakatime Insights</i> : 
 <!--  Wakatime stats -->
 <p> 
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/wakatime?username=Sudhanshu_Singh&layout=compact&langs_count=8&theme=onedark&hide_border=true" 
-       alt="Sudhanshu Singh" width="47%" height="100%"
-  />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Sudhanshu_Singh/a31af892-2f61-4964-a75e-f723751916d8.png" height = "47%" width = "100%"/></a>
 </p>
 
 <!--  GitHub Stats -->
